@@ -1,0 +1,1 @@
+This project is a simple Secret Code Generator that allows users to encode and decode messages using a Caesar cipher. The program shifts the letters in the message by a specified amount to either encode or decode the message.
